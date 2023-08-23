@@ -124,6 +124,9 @@ body {
   background-color: #f16059;
   height: 300px;
   display: flex;
+  width: 30%;
+  justify-content: center;
+  align-items: center;
 }
 
 /* ==========================================================================
