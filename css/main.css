@@ -148,6 +148,7 @@ main p {
 .flex-items {
   /*give the divs a width of 30%, add display:flex, set justify-content and align-items to center*/
   color: #000;
+  width: 30%;
   display: flex;
   justify-content: center;
   align-items: center;
